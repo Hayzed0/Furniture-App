@@ -1,1 +1,2 @@
-# Furniture-App
+# Building a Beautiful E-commerce Furniture Website with React, Tailwind CSS, and Redux Toolkit
+In this project, I have developed a sophisticated e-commerce furniture website using a combination of modern technologies that are widely adopted in the web development ecosystem. Specifically, I utilized React for building the user interface, Tailwind CSS for styling and layout, and Redux Toolkit for efficient state management. This combination allowed me to create a visually appealing and highly functional website that can handle complex user interactions and data flow seamlessly.
