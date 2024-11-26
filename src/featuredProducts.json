@@ -1,0 +1,40 @@
+{
+    "featuredProducts": [
+        {
+            "title": "Designed Sofa",
+            "price": 160,
+            "images": "src/assets/features/f1.jpg",
+            "ratings": {
+                "stars": "4",
+                "review": 45
+            }
+        },
+        {
+            "title": "Dinning Table",
+            "price": 100,
+            "images": "src/assets/features/f2.jpg",
+            "ratings": {
+                "stars": "4",
+                "review": 45
+            }
+        },
+        {
+            "title": "Chair and Table",
+            "price": 200,
+            "images": "src/assets/features/f3.jpg",
+            "ratings": {
+                "stars": "4",
+                "review": 45
+            }
+        },
+        {
+            "title": "Modern Arm Chair",
+            "price": 270,
+            "images": "src/assets/features/f4.jpg",
+            "ratings": {
+                "stars": "4",
+                "review": 45
+            }
+        }
+    ]
+}
